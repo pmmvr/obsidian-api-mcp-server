@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that enables AI agents to perform sophisticated knowledge discovery and analysis across your Obsidian vault through the Local REST API plugin.
 
+<a href="https://glama.ai/mcp/servers/@pmmvr/obsidian-api-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@pmmvr/obsidian-api-mcp-server/badge" alt="Obsidian Server MCP server" />
+</a>
+
 ## Why This Matters
 
 This server transforms your Obsidian vault into a powerful knowledge base for AI agents, enabling complex multi-step workflows like:
